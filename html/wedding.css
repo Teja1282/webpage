@@ -1,0 +1,10 @@
+.container img{
+    width: 450px;
+    height: 300px;
+    
+
+}
+body{
+   background-color:rgb(242, 169, 216);
+   background-image: url(bg.jpg);
+}
